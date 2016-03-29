@@ -38,8 +38,6 @@ public class Main {
 	 *  				In compiler optimization, register allocation is the process of assigning a large number of target program
 	 *  				variables onto a small number of CPU registers. This problem is also a graph coloring problem
 	 * 
-	 * 	Here we implement the greedy algorithm: d+1 colort hasznal max -> d a legtobb fogszammal rendelkezo vertex eleinek szama
-	 * 			 It doesn’t guarantee to use minimum colors, but it guarantees an upper bound on the number of colors !!!
 	 * 
 	 */
 	
