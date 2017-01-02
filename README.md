@@ -1,1 +1,1 @@
-# GraphColoringProblem
+# Graph Coloring Problem
